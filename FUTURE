@@ -1,0 +1,13 @@
+We will add more to this project as this is just beginner level
+1) Functions
+2) Add CSV support:
+Save student data
+Load previous data
+3)Add Error Handling
+invalid marks input
+wrong names
+empty dataset
+4)Add Visualization 
+bar chart of marks
+topper highlight
+pass/fail comparison
