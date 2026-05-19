@@ -1,0 +1,23 @@
+#  Student Marks Analyzer (Pandas Series Project)
+
+##  Overview
+This project is a simple **Student Marks Analysis System** built using Python and Pandas Series. It allows users to input student marks and perform basic statistical analysis.
+
+---
+
+##  Features
+- Input student names and marks dynamically
+- Find topper of the class
+- Calculate average marks
+- Identify highest and lowest scores
+- Filter students scoring above 75
+- Detect failed students (<40)
+- Add new students dynamically
+- Update existing student marks
+- Sort marks in descending order
+
+---
+
+##  Technologies Used
+- Python
+- Pandas (Series)
